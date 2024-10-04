@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 from resources.console import (
     info,
     error,
