@@ -27,5 +27,5 @@ python main.py
 ## Usage
 
 All games give instructions about the type of information that you have to enter
-in the prompts. And shows warnings if you are doing anything that is not the right way,
+in the prompts. And shows warnings if you are doing anything and is not the right way,
 but don't worry, you just have to give the correct answer... Of course, is a game!
