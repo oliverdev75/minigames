@@ -9,7 +9,7 @@ Download source code and enter in the root directoy:
 git clone https://github.com/twister91/minigames.git
 cd minigames
 ```
-And run one of the following command depending on your OS:
+And run one of the following commands depending on your OS:
  - Linux:
 ```sh
 python3 main.py
