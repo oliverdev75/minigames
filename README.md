@@ -11,21 +11,21 @@ cd minigames
 ```
 And run one of the following command depending on your OS:
  - Linux:
-   ```sh
-   python3 main.py
-   ```
+```sh
+python3 main.py
+```
    or
-   ```sh
-   chmod u+x main.py
-   ./main.py
-   ```
+```sh
+chmod u+x main.py
+./main.py
+```
  - Windows:
-   ```sh
-   python main.py
-   ```
+```sh
+python main.py
+```
 
 ## Usage
 
 All games give instructions about the type of information that you have to enter
-in the prompts. And shows warnings if you are doing any thing not the right way,
-but don't worry you just have to write the correct answer... Of course is game!:stuck_out_tongue_winking_eye:
+in the prompts. And shows warnings if you are doing anything that is not the right way,
+but don't worry, you just have to give the correct answer... Of course, is a game!
